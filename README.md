@@ -5,5 +5,5 @@
 Análise Individual:\
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielfas/Spotify-Playlist-Analysis/blob/master/colab-notebooks/Spotify_Data_Science.ipynb)\
 
-Análise para duas pessoas:\e
+Análise para duas pessoas:\
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielfas/Spotify-Playlist-Analysis/blob/master/colab-notebooks/diversifytests.ipynb)
