@@ -68,7 +68,7 @@ def get_favorite_songs(spfy, features=False):
     If that's not the case add it in the interfacespfy.scope array and refresh
     the token.
 
-    Quantity of requests per call = ceil( n° of saved songs / limit )
+    Quantity of requests per call = ceil( number of saved songs / limit )
 
     :param spfy: spfy object received when logging user
     :param limit: maximum of musics that will be returned from query
@@ -268,7 +268,7 @@ def get_features(spfy, tracks):
     The returned object is filtered with the fields described in the
     _fields object of the module.
 
-    Quantity of requests per call = ceil( n° of saved songs / 100 )
+    Quantity of requests per call = ceil( number of saved songs / 100 )
 
     :param spfy: Spotipy session object that is returned when logging user
     :param tracks: list with songs (dicts with id and name keys)
